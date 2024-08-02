@@ -1,19 +1,4 @@
-﻿REF_DATE,GEO,DGUID,Industry,Sector,Variable,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
-1946,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,4515230,,,,0
-1947,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,2366520,,,,0
-1948,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,885960,,,,0
-1949,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1036930,,,,0
-1950,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1388280,,,,0
-1951,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,901911,,,,0
-1952,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,2765720,,,,0
-1953,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1312900,,,,0
-1954,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1430500,,,,0
-1955,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1875600,,,,0
-1956,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1246130,,,,0
-1957,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1477330,,,,0
-1958,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,2673480,,,,0
-1959,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,2226890,,,,0
-1960,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,738700,,,,0
+﻿DATE,GEO,DGUID,Industry,Sector,Variable,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
 1961,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1335080,,,,0
 1962,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,1417360,,,,0
 1963,Canada,2016A000011124,All industries,All sectors,Person-days not worked,Number,223,units,0,v108829331,1.1.1.4,916990,,,,0
